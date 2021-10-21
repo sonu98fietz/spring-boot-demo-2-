@@ -1,0 +1,4 @@
+com\sa\springbootmvcjspjpa\domain\User.class
+com\sa\springbootmvcjspjpa\SpringBootWebStarter.class
+com\sa\springbootmvcjspjpa\controllers\UserController.class
+com\sa\springbootmvcjspjpa\repository\UserRepository.class
